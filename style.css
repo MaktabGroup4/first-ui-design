@@ -1,0 +1,33 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    direction: rtl;
+}
+#information {
+    padding: 5px;
+    margin: 5px;
+    border-bottom: 2px solid rgb(19, 13, 13);
+}
+.porfile-list{
+    padding: 3px;
+}
+#images{
+    padding: 5px;
+    margin: 5px;
+    border-bottom: 2px solid rgb(19, 13, 13);
+}
+.ski{
+    list-style-type: square;
+}
+.container{
+    padding: 20px;
+    background-image: linear-gradient(45deg, #9a1e1e, transparent);
+    border: 2px solid #a97d7d;
+}
+.txt{
+    display: block;
+}
+#gender{
+    margin-bottom: 10px;
+    display: block;
+}
